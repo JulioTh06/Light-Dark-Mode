@@ -1,0 +1,7 @@
+#switch-mode {
+    position: absolute;
+    top: 10vh;
+    right: 7.5vw;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
